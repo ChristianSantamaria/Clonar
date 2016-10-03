@@ -19,6 +19,8 @@ public class Clonacion {
         
         System.err.print("Este es la primera modificacion");
         System.err.print("Este es la primera modificacion");
+        System.err.print("Este es la primera modificacion");
+        System.err.print("Este es la primera modificacion");
         
     }
     
