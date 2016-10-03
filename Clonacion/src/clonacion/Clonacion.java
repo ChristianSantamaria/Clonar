@@ -18,6 +18,7 @@ public class Clonacion {
         // TODO code application logic here
         
         System.err.print("Este es la primera modificacion");
+        System.err.print("Este es la primera modificacion");
         
     }
     
